@@ -1,0 +1,2 @@
+# run `source <path to this directory>/alias`
+alias which_cpp_standard="cd ~/all_developing/cpp; g++ which_cpp_standard.cc -o wcs; ./wcs; cd -"
